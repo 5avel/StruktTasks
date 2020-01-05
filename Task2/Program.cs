@@ -82,7 +82,6 @@ namespace Task2
 
         public Train(string destination, int number, DateTime departureTime) 
         {
-            //Инициализация полей класса
             this.destination = destination;
             this.number = number;
             this.departureTime = departureTime;
