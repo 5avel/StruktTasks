@@ -5,7 +5,7 @@ namespace Task2
 {
     class Program
     {
-        static Train[] trains = new Train[3];
+        static Train[] trains = new Train[8];
 
         static void Main(string[] args)
         {
